@@ -1,9 +1,11 @@
 # character
 Создание информационного блока для персонажа видеоигры
 
-TODO:
+<!-- TODO:
+
 Структура персонажа
--Character
+
+-Character 
 |- name
 |- level
 |- exp
@@ -45,3 +47,4 @@ TODO:
 |- |- |- description:
 |- inventory
 ...
+ -->
